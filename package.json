@@ -1,0 +1,14 @@
+{
+  "name": "api-sst",
+  "version": "1.0.0",
+  "description": "modulo de inspecciones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
